@@ -1,0 +1,7 @@
+console.log('hellow')
+console.log('i love bangladesh')
+console.log(45)
+console.log(45.23)
+console.log('nice')
+console.log('nice'+9)
+console.log(9+9)
